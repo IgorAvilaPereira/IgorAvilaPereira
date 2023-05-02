@@ -8,7 +8,7 @@ Sou Professor de Ensino Básico, Técnico Tecnológico no Instituto Federal de E
 <!-- Além disso, fiz Fez sua Formação Pedagógica em Computação - equivalente a licenciatura - pela Rede de Educação Claretiano.  -->
 
 
-Trabalho<!--, Tem experiência na área de Ciência da Computação atuando principalmente,--> com os seguintes temas: recuperação de informação, mineração de dados, padrões de projeto (*design-patterns*), programação *web* (*Java*, *PHP*, *Python*, *Javascript* e *Ruby*), programação *desktop* (*Java* e *Python*), banco de dados relacionais (*PostgreSQL*, *SQLite* e *MySQL*) e não-relacionais (*Redis*, *MongoDB* e *Neo4j*), agrupamento de dados e redes de sensores sem fio. 
+Trabalho<!--, Tem experiência na área de Ciência da Computação atuando principalmente,--> com os seguintes temas: recuperação de informação, mineração de dados, *design-patterns*, programação *web*, programação *desktop*, banco de dados relacionais e não-relacionais, agrupamento de dados e redes de sensores sem fio. 
 
  <!-- Tenho experiência profissional em desenvolvimento web back-end com PHP (minha linguagem favorita!), porém atuo com projetos de pesquisa e de ensino fornecendo soluções por meio de outras tecnologias (Java e JavaScript). Tenho interesses em diversas tecnologias com diferentes arquiteturas de aplicações. -->
 
