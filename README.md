@@ -11,15 +11,16 @@ Sou Professor de Ensino Básico, Técnico Tecnológico no Instituto Federal de E
 Trabalho<!--, Tem experiência na área de Ciência da Computação atuando principalmente,--> com os seguintes temas: recuperação de informação, mineração de dados, padrões de projeto (*design-patterns*), programação *web* (*Java*, *PHP*, *Python*, *Javascript* e *Ruby*), programação *desktop* (*Java* e *Python*), banco de dados relacionais (*PostgreSQL*, *SQLite* e *MySQL*) e não-relacionais (*Redis*, *MongoDB* e *Neo4j*), agrupamento de dados e redes de sensores sem fio. 
 
  <!-- Tenho experiência profissional em desenvolvimento web back-end com PHP (minha linguagem favorita!), porém atuo com projetos de pesquisa e de ensino fornecendo soluções por meio de outras tecnologias (Java e JavaScript). Tenho interesses em diversas tecnologias com diferentes arquiteturas de aplicações. -->
- 
-Em [igoravilapereira.github.io](http://igoravilapereira.github.io) você pode conferir o está acontecendo comigo e o que estou fazendo profissionalmente (ensino, pesquisa e extensão) e pessoalmente (projetos pessoais que faço por *hobbie*).
 
-## Linguagens 
-
-<div align="center">
+ <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorAvilaPereira&layout=compact&hide=HTML,CSS,Vue,Roff,Shell)](https://github.com/IgorAvilaPereira)
 
 </div>
+ 
+Em [igoravilapereira.github.io](http://igoravilapereira.github.io) você pode conferir o está acontecendo comigo e o que estou fazendo profissionalmente (ensino, pesquisa e extensão) e pessoalmente (projetos que faço por *hobbie*).
 
-Abaixo fixei os repositórios das disciplinas que ministro no semestre. Fique à vontade e aproveite o material!
+<!-- ## Linguagens  -->
+
+
+Abaixo fixei os repositórios das disciplinas que estou ministrando neste semestre. Fique à vontade e aproveite o material disponibilizado!
