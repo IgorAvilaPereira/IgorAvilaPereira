@@ -12,12 +12,12 @@ Trabalho<!--, Tem experiência na área de Ciência da Computação atuando prin
 
  <!-- Tenho experiência profissional em desenvolvimento web back-end com PHP (minha linguagem favorita!), porém atuo com projetos de pesquisa e de ensino fornecendo soluções por meio de outras tecnologias (Java e JavaScript). Tenho interesses em diversas tecnologias com diferentes arquiteturas de aplicações. -->
 
- <div align="center">
+ <!-- <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorAvilaPereira&layout=compact&hide=HTML,CSS,Vue,Roff,Shell)](https://github.com/IgorAvilaPereira)
 
 </div>
- 
+  -->
 Em [igoravilapereira.github.io](http://igoravilapereira.github.io) você pode conferir o está acontecendo comigo e o que estou fazendo profissionalmente (ensino, pesquisa e extensão) e pessoalmente ([projetos](https://igoravilapereira.github.io/projetos_pessoais.html) que faço por *hobbie*).
 
 <!-- ## Linguagens  -->
