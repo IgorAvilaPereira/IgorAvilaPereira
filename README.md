@@ -1,16 +1,24 @@
-### Hi there 👋
+# Olá, me chamo [Igor](https://igoravilapereira.github.io/)!
 
-<!--
-**IgorAvilaPereira/IgorAvilaPereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Atualmente  -->
+Sou Professor de Ensino Básico, Técnico Tecnológico no Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul - Câmpus Rio Grande. 
 
-Here are some ideas to get you started:
+<!-- Possuo graduação em Engenharia de Computação e graduação em Tecnologia em Análise e Desenvolv. de Sistemas - ambos pela Universidade Federal do Rio Grande (FURG). Realizei meu mestrado em Engenharia de Computação também pela Universidade Federal do Rio Grande e meu doutorado em Ciência da Computação pela Universidade Federal de Pelotas (UFPEL).  -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Além disso, fiz Fez sua Formação Pedagógica em Computação - equivalente a licenciatura - pela Rede de Educação Claretiano.  -->
+
+
+Trabalho<!--, Tem experiência na área de Ciência da Computação atuando principalmente,--> com os seguintes temas: recuperação de informação, mineração de dados, padrões de projeto (*design-patterns*), programação *web* (*Java*, *PHP*, *Python*, *Javascript* e *Ruby*), programação *desktop* (*Java* e *Python*), banco de dados relacionais (*PostgreSQL*, *SQLite* e *MySQL*) e não-relacionais (*Redis*, *MongoDB* e *Neo4j*), agrupamento de dados e redes de sensores sem fio. 
+
+ <!-- Tenho experiência profissional em desenvolvimento web back-end com PHP (minha linguagem favorita!), porém atuo com projetos de pesquisa e de ensino fornecendo soluções por meio de outras tecnologias (Java e JavaScript). Tenho interesses em diversas tecnologias com diferentes arquiteturas de aplicações. -->
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorAvilaPereira&layout=compact&hide=HTML,CSS,Vue,Roff,Shell)](https://github.com/IgorAvilaPereira)
+
+</div>
+
+Lá em igoravilapereira.github.io é checar o está acontecendo comigo e o que estou fazendo no ensino, na pesquisa e a extensão (fora os projetos pessoais que faço por *hobbie*).
+
+
+Abaixo fixei os repositórios das disciplinas que estou ministrando neste semestre. Fique à vontade e aproveite!
