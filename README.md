@@ -18,7 +18,7 @@ Trabalho<!--, Tem experiência na área de Ciência da Computação atuando prin
 
 </div>
   -->
-Acessando [igoravilapereira.github.io](http://igoravilapereira.github.io) você pode conferir o que está acontecendo comigo profissionalmente (ensino, pesquisa e extensão) e pessoalmente ([projetos](https://igoravilapereira.github.io/projetos_pessoais.html) que faço por *hobbie*).
+Acessando [igoravilapereira.github.io](http://igoravilapereira.github.io) você pode conferir o que está acontecendo comigo profissionalmente (ensino, pesquisa e extensão) e pessoalmente ([projetos](https://igoravilapereira.github.io/projetos_pessoais.html) que faço por *hobby*).
 
 <!-- ## Linguagens  -->
 
