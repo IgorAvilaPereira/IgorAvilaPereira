@@ -18,9 +18,9 @@ Trabalho<!--, Tem experiência na área de Ciência da Computação atuando prin
 
 </div>
   -->
-Em [igoravilapereira.github.io](http://igoravilapereira.github.io) você pode conferir o está acontecendo comigo e o que estou fazendo profissionalmente (ensino, pesquisa e extensão) e pessoalmente ([projetos](https://igoravilapereira.github.io/projetos_pessoais.html) que faço por *hobbie*).
+Acessando [igoravilapereira.github.io](http://igoravilapereira.github.io) você pode conferir o que está acontecendo comigo profissionalmente (ensino, pesquisa e extensão) e pessoalmente ([projetos](https://igoravilapereira.github.io/projetos_pessoais.html) que faço por *hobbie*).
 
 <!-- ## Linguagens  -->
 
 
-Abaixo fixei os repositórios das disciplinas que estou ministrando neste semestre. Fique à vontade e aproveite o material!
+Abaixo fixei os repositórios das disciplinas que estou ministrando neste semestre. Fique à vontade e aproveite o material.
