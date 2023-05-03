@@ -22,6 +22,6 @@ Acessando [igoravilapereira.github.io](http://igoravilapereira.github.io) você 
 
 <!-- ## Linguagens  -->
 
-Estão fixados aqui abaixo os repositórios das disciplinas que ministro neste semestre. Fique à vontade e aproveite o material.
+Sempre deixarei fixado aqui abaixo os repositórios das disciplinas que ministro durante o semestre. Fique à vontade e aproveite o material.
 
 
