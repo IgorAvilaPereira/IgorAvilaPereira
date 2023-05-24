@@ -1,7 +1,8 @@
 # Olá, me chamo [Igor!](https://igoravilapereira.github.io/)
 
 Sou Professor de Ensino Básico, Técnico Tecnológico no Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul - Câmpus Rio Grande. 
-Trabalho com os seguintes temas: recuperação de informação, mineração de dados, *design-patterns*, programação *web*, programação *desktop*, banco de dados relacionais e não-relacionais, agrupamento de dados e redes de sensores sem fio. 
+
+Trabalho com os seguintes assuntos: recuperação de informação, mineração de dados, *design-patterns*, programação *web*, programação *desktop*, banco de dados relacionais e não-relacionais, agrupamento de dados e redes de sensores sem fio. 
 
 Acessando [igoravilapereira.github.io](http://igoravilapereira.github.io) você pode conferir minhas atividades profissionais de ensino, pesquisa e extensão e os [projetos pessoais](https://igoravilapereira.github.io/projetos_pessoais.html) que desenvolvi por *hobby*.
 
