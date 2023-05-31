@@ -6,6 +6,6 @@ Trabalho com os seguintes assuntos: recuperação de informação, mineração d
 Acessando [igoravilapereira.github.io](http://igoravilapereira.github.io) você pode conferir minhas atividades profissionais de ensino, pesquisa e extensão e os [projetos pessoais](https://igoravilapereira.github.io/projetos_pessoais.html) que desenvolvi por *hobby*. Sempre deixarei fixado aqui abaixo os repositórios das disciplinas que estou ministrando durante o semestre. Fique à vontade e aproveite o material.
 
 <!-- ## Linguagens  -->
-<p align="center" width="100%">
+<!-- <p align="center" width="100%">
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorAvilaPereira&layout=compact&hide=HTML,CSS,Vue,Roff,Shell" />
-</p>
+</p> -->
